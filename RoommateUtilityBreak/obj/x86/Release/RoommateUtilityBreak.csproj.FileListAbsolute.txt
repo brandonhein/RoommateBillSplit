@@ -1,0 +1,7 @@
+C:\Users\bhein1-\documents\visual studio 2010\Projects\RoommateUtilityBreak\RoommateUtilityBreak\bin\Release\RoommateUtilityBreak.exe
+C:\Users\bhein1-\documents\visual studio 2010\Projects\RoommateUtilityBreak\RoommateUtilityBreak\bin\Release\RoommateUtilityBreak.pdb
+C:\Users\bhein1-\documents\visual studio 2010\Projects\RoommateUtilityBreak\RoommateUtilityBreak\obj\x86\Release\RoommateUtilityBreak.Form1.resources
+C:\Users\bhein1-\documents\visual studio 2010\Projects\RoommateUtilityBreak\RoommateUtilityBreak\obj\x86\Release\RoommateUtilityBreak.Properties.Resources.resources
+C:\Users\bhein1-\documents\visual studio 2010\Projects\RoommateUtilityBreak\RoommateUtilityBreak\obj\x86\Release\RoommateUtilityBreak.csproj.GenerateResource.Cache
+C:\Users\bhein1-\documents\visual studio 2010\Projects\RoommateUtilityBreak\RoommateUtilityBreak\obj\x86\Release\RoommateUtilityBreak.exe
+C:\Users\bhein1-\documents\visual studio 2010\Projects\RoommateUtilityBreak\RoommateUtilityBreak\obj\x86\Release\RoommateUtilityBreak.pdb
