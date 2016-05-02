@@ -50,7 +50,7 @@ namespace RoommateUtilityBreak
                     average = ((paymentArray[0] + paymentArray[1] + paymentArray[2]) / 3);
 
                     //Bubble sort the payments and name array to match who paid what
-                    int i, j;
+                    int i, j, h;
                     double temp;
                     string temp2;
                     for (j = 0; j < paymentArray.Length - 1; j++)
